@@ -14,5 +14,5 @@ Best Score :
 
 <b>Document</b>
 
-<a href="https://drive.google.com/file/d/1oUuroVYIqamyNnXJXM0-v6O7iZPY-q1l/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Google Drive-LINK-blue?style=for-the-badge"></img></a>
+<a href="https://docs.google.com/document/d/1Aot9dQ1cHA0_CzaaQErPRx_B0a9HO5OUi_YVOWvPpVs/edit?usp=sharing">
+  <img src="https://img.shields.io/badge/Google Docs-LINK-blue?style=for-the-badge"></img></a>
